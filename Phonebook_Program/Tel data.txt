@@ -1,0 +1,12 @@
+Nigel,Anderson,45,m,01415217744,28 Great Western Road Glasgow G1 0GG
+Angela,Crawford,39,f,01413320011,92 London Road Glasgow Glasgow G72 9YH
+Kate,Stevenson,41,f,01319752022,13 Morgan drive Edinburgh EH2 9WZ
+John,West,43,m,02078634477,123 Browser Street London E11 2ER
+Robert,Mask,37,m,01415714040,99 Cathcart Road Glasgow G42 8TC
+MAhmood,Al-Sabbagh,63,m,0777777777,Glasgow Clyde College
+Jason,Born,40,m,8967854772,Perth King George 25
+Jim,Beam,42,m,529564489,London Piccadilli Circus
+Nancy,Sabath,27,f,37896579,Glasgow Govan
+Musaka,Ngabe,29,m,052587906,Nairobi
+Karen,Johnson,33,f,0135768952,Cairo
+Ikar,Starr,18,m,895600524,Cardiff
